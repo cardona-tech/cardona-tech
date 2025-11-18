@@ -147,4 +147,4 @@ I am a **cybersecurity specialist**, **full stack developer**, **expert in Artif
 
 Thank you for visiting my profile! 😊
 
-#Cybersecurity #SoftwareDevelopment #Python #AI #MachineLearning #DeepLearning #NLP #ComputerVision #SEO #Pentesting #Automation #HackRF #FlipperZero #GitHub #OpenSource #DevOps #BigData #TechnologicalInnovation
+#Cybersecurity #SoftwareDevelopment #Python #AI #MachineLearning #DeepLearning #NLP #ComputerVision #SEO #Pentesting #Automation #HackRF #FlipperZero #GitHub #OpenSource #DevOps #BigData #TechnologicalInnovation #cardona-tech #Cardona-Tech
